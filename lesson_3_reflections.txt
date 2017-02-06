@@ -1,0 +1,7 @@
+NOTE: the other reflections file has reflections for both chapter 1 and chapter 2.
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+    When you have the internet, of course. It can serve as backup in case your computer
+    breaks and loses all data on it. People can still download multiple versions of
+    file as opposed to if you post just one version if at all.
